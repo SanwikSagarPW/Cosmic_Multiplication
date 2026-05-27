@@ -3,7 +3,7 @@
         {
             "id": "Stage1",
             "spawnWaves": 10,
-            "randomWaves": false,
+            "randomWaves": true,
             "waves": [
                 {
                     "display": "3 x 5",
@@ -80,7 +80,7 @@
         {
             "id": "Stage2",
             "spawnWaves": 10,
-            "randomWaves": false,
+            "randomWaves": true,
             "waves": [
                 {
                     "display": "12 x 4",
@@ -157,7 +157,7 @@
         {
             "id": "Stage3",
             "spawnWaves": 10,
-            "randomWaves": false,
+            "randomWaves": true,
             "waves": [
                 {
                     "display": "25 x 38",
@@ -210,7 +210,7 @@
                 },
                 {
                     "display": "65 x 15",
-                    "spawnStyle": "zig-zag",
+                    "spawnStyle": "zig-zac",
                     "destroyStyle": "chainBlast",
                     "elements": [ "950", "1000", "925", "990" ],
                     "correct": [ "975" ]
